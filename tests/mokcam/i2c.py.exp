@@ -1,0 +1,9 @@
+ValueError -1
+ValueError 0
+I2C 1
+I2C 2
+ValueError 3
+ValueError X
+ValueError Y
+ValueError Z
+[9, 28, 100]
